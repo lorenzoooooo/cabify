@@ -3,3 +3,6 @@ cabify_env/
 challenge_dataset.json
 route_*
 dataset/
+*.py
+__pycache__
+.vscode
